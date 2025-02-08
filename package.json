@@ -2,7 +2,7 @@
     "name": "alt-source",
     "description": "A default theme for the Ghost publishing platform - Modified for Cardinal Healthcare Foundation",
     "demo": "https://source.ghost.io",
-    "version": "1.4.0",
+    "version": "1.4.1",
     "engines": {
         "ghost": ">=5.0.0"
     },
